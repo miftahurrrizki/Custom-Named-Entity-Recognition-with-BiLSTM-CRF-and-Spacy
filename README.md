@@ -2,6 +2,9 @@
 
 This project implements a Bidirectional LSTM with Conditional Random Fields (BiLSTM-CRF) for Named Entity Recognition (NER) tasks. The model is designed to identify and classify named entities in text, such as locations and seaweed species.
 
+![image](https://github.com/user-attachments/assets/b0f364d4-745b-4f4b-a8dd-23da59596187)
+
+
 ## Requirements
 
 - Python 3.7+
