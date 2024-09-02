@@ -5,12 +5,9 @@ This project implements a Bidirectional LSTM with Conditional Random Fields (BiL
 ------------------
 
 ![image](https://github.com/user-attachments/assets/b0f364d4-745b-4f4b-a8dd-23da59596187)
-Model Architecture
+Model Architecture (BiLSTM-CRF)
 
 ------------------
-
-![image](https://github.com/user-attachments/assets/d0cbf44f-28eb-4dea-a40a-bd990f91c534)
-Model Accuracy
 
 
 ## Requirements
