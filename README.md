@@ -1,6 +1,6 @@
-# Named Entity Recognition using BiLSTM-CRF
+# Named Entity Recognition using BiLSTM-CRF and Spacy
 
-This project implements a Bidirectional LSTM with Conditional Random Fields (BiLSTM-CRF) for Named Entity Recognition (NER) tasks. The model is designed to identify and classify named entities in text, such as locations and seaweed species.
+This project implements a Bidirectional LSTM with Conditional Random Fields (BiLSTM-CRF) and Spacy for Named Entity Recognition (NER) tasks. The model is designed to identify and classify named entities in text, such as locations and seaweed species.
 
 ------------------
 
@@ -9,8 +9,8 @@ Model Architecture (BiLSTM-CRF)
 
 ------------------
 
-![image](https://github.com/user-attachments/assets/f99c470f-c38e-49ea-b435-2ae10216f8e3)
-Model Accuracy for each entity (BiLSTM-CRF)
+![image](https://github.com/user-attachments/assets/b38ede97-42d3-4716-a471-2e7f0d4f062c)
+Model Accuracy for each entity
 
 ------------------
 
