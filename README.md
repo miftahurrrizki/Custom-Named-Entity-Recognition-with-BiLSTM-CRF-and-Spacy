@@ -9,6 +9,12 @@ Model Architecture (BiLSTM-CRF)
 
 ------------------
 
+![image](https://github.com/user-attachments/assets/f99c470f-c38e-49ea-b435-2ae10216f8e3)
+Model Accuracy for each entity (BiLSTM-CRF)
+
+------------------
+
+
 
 ## Requirements
 
